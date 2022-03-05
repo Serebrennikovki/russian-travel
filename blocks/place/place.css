@@ -1,0 +1,9 @@
+.place{
+    margin: 0 0 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+.place:nth-child(5){
+    margin: 0;
+}

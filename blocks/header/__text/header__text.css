@@ -1,0 +1,19 @@
+.header__text{
+    margin: 46px 48px 0 0;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+
+@media  screen and (max-width: 720px) {
+    .header__text{
+        margin: 46px 24px 0 0;
+    }
+}
+@media  screen and (max-width: 320px) {
+    .header__text{
+        margin: 30px 16px 0 0;
+    }
+}

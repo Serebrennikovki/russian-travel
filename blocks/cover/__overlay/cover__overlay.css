@@ -1,0 +1,19 @@
+.cover__overlay{
+    background-color: rgb(16, 18, 18, 0.3);
+    height: 740px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-content: center;
+    text-decoration: none;
+    color: #fff;
+}
+.cover__overlay:hover{
+    background-color: rgb(16, 18, 18, 0.8);
+}
+
+@media screen and (max-width: 1184px) {
+    .cover__overlay{
+        height: 63vw;
+    }
+} 

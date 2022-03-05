@@ -1,0 +1,12 @@
+.footer__nav-cell{
+    margin: 0;
+    padding: 0;
+}
+@media screen and (max-width: 425px) {
+    .footer__nav-cell{
+        padding: 0 0 32px;
+    }
+    .footer__nav-cell:nth-child(5){
+        margin: 0;
+    }
+}

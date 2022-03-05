@@ -1,0 +1,11 @@
+.place__first-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+@media  screen and (max-width: 425px) {
+    .place__first-row{
+        flex-direction: column;
+        align-content: start;
+    }
+}
