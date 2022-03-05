@@ -2,7 +2,7 @@
 
 ### Одностраничная адаптивная верстка страницы.
 Ссыка на Figma: https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=62863%3A870 
-Ссылка на Pages:
+Ссылка на Pages: https://serebrennikovki.github.io/russian-travel/index.html
 
 Что сделано?
 -------------
