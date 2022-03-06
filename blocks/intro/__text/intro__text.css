@@ -10,6 +10,12 @@
         width: 720px;
     }
 }
+@media  screen and (max-width: 768px) {
+    .intro__text{
+        width: calc(100vw - 48px);
+    }
+}
+
 @media  screen and (max-width: 425px) {
     .intro__text{
         width: 90vw;

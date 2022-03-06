@@ -5,14 +5,4 @@
     font-size: 12px;
     line-height: 1.5;
     list-style-type: none;
-} 
-@media  screen and (max-width: 1024px) {
-    .intro__title{
-        width: 720px;
-    }
-}
-@media  screen and (max-width: 425px) {
-    .intro__title{
-        width: 90vw;
-    }
 }
