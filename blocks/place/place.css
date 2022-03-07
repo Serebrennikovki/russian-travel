@@ -3,6 +3,7 @@
     display: flex;
     flex-direction: column;
     justify-content: start;
+    box-sizing: border-box;
 }
 .place:nth-child(5){
     margin: 0;

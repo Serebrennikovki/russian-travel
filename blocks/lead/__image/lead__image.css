@@ -7,13 +7,13 @@
     .lead__image{
         margin: 56px auto 0;
         height: 62.5vw;
-        width: calc(100vw - 96px);
+        width: calc(100% - 98px)
     }
 }
 @media screen  and (max-width: 768px) {
     .lead__image{
         height: 62.5vw;
-        width: 100vw;
+        width: 100%;
     }
 }
 @media screen  and (max-width: 425px) {
